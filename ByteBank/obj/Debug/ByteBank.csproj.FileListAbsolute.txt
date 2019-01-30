@@ -1,0 +1,7 @@
+C:\Work\Alura\Alura-parte-4-Entendendo-Excecoes\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Work\Alura\Alura-parte-4-Entendendo-Excecoes\ByteBank\bin\Debug\ByteBank.exe
+C:\Work\Alura\Alura-parte-4-Entendendo-Excecoes\ByteBank\bin\Debug\ByteBank.pdb
+C:\Work\Alura\Alura-parte-4-Entendendo-Excecoes\ByteBank\obj\Debug\ByteBank.csprojResolveAssemblyReference.cache
+C:\Work\Alura\Alura-parte-4-Entendendo-Excecoes\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Work\Alura\Alura-parte-4-Entendendo-Excecoes\ByteBank\obj\Debug\ByteBank.exe
+C:\Work\Alura\Alura-parte-4-Entendendo-Excecoes\ByteBank\obj\Debug\ByteBank.pdb
