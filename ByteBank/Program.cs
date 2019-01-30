@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ByteBank
 {
@@ -14,15 +10,10 @@ namespace ByteBank
             {
                 Metodo();
             }
-            catch (DivideByZeroException excecao)
+            catch (Exception e)
             {
-                Console.WriteLine(excecao.Message);
-                Console.WriteLine(excecao.StackTrace);
-            }
-            catch (NullReferenceException excecao)
-            {
-                Console.WriteLine(excecao.Message);
-                Console.WriteLine(excecao.StackTrace);
+                Console.WriteLine(e.Message);
+                Console.WriteLine(e.StackTrace);
             }
 
             Console.ReadLine();
